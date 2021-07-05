@@ -5,7 +5,7 @@ body{
     width: 50%;
     
 }
-.top-heading{
+.top-heading {
     display: flex;
 
 }
@@ -28,7 +28,51 @@ body{
     background-image: linear-gradient(orange , tomato);
     text-decoration: none;
     border-radius: 40px;
-    font-size: 700;
+    color: white;
+    padding: 10px 10px;
+   
+    
+   
+    
+}
+
+.about-me{
+    display: flex;
+    padding-top: 80px;
+    background-image: url(images/Baground-middle.jpg);
+    background-size: 100%;
+    margin-top: 80px;
+}
+.half-middle-width {
+    width: 80%;
+    padding-top: 30px;
+    padding-left: 180px;
+    
+
+}
+.half-middle-width p{
+    padding: 30px;
+    padding-top: 20px;
+    text-align: justify;
+    padding-right: 30px;
+}
+.half-middle-width h1{
+    size: 400;
+    padding: 30px;
+    padding-top: 20px;
+    padding-right: 30px;
+
+
+}
+#image-size{
+    size: 40px;
+}
+.middle-button{
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    border-radius: 40px;
     color: white;
     padding: 10px 10px;
 }
+
+
