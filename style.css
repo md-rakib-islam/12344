@@ -30,10 +30,7 @@ body{
     border-radius: 40px;
     color: white;
     padding: 10px 10px;
-   
-    
-   
-    
+
 }
 
 .about-me{
@@ -46,8 +43,8 @@ body{
 .half-middle-width {
     width: 80%;
     padding-top: 30px;
-    padding-left: 180px;
-    
+    padding-left: 185px;
+
 
 }
 .half-middle-width p{
@@ -64,6 +61,7 @@ body{
 
 
 }
+
 #image-size{
     size: 40px;
 }
@@ -76,11 +74,13 @@ body{
 }
 .middle-text{
     text-align: center;
+    padding-top: 30px;
 }
 
 
 .image-section{
     display: flex;
+   padding-top: 50px;
 }
 
 .recipie-image{
@@ -91,7 +91,7 @@ body{
     padding: 25px;
     border-radius: 20px;
     text-align: justify;
-    
+
 }
 .recipie-image img{
     width: 100%;
@@ -102,13 +102,29 @@ background-image: url();
 }
 
 .tex-marque{
-    color: darkblue;
-    font-size: large;
-    font: bold;
+    color: rgb(78, 77, 77)
 }
 #food-text{
-    color: red;
+    color: rgb(83, 0, 0);
     font: bold;
 
 }
+.footer-button{
+    text-align: center;
+    color: rgb(24, 1, 1);
+    background-color:lightblue;
+    padding-top: 10px;
+    padding-bottom: 5px;
+  
+}
+.footer-button p{
+    color:rgb(1, 1, 24);
+}
+#f-color{
+    color: rgb(0, 0, 46);
+    font-family: 'Poppins',sans-serif;
+
+}
+
+
 
