@@ -15,7 +15,9 @@ body{
 .half-width h1{
     font-size: 60px;
     font-weight: 900;
-    
+   
+
+
 }
 #top-id{
     padding-top: 50px;
@@ -23,6 +25,7 @@ body{
 }
 .tomato-color {
     color:tomato;
+     font-family: 'Poppins', sans-serif;
 }
 .top-button{
     background-image: linear-gradient(orange , tomato);
