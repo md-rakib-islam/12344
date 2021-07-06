@@ -74,5 +74,41 @@ body{
     color: white;
     padding: 10px 10px;
 }
+.middle-text{
+    text-align: center;
+}
 
+
+.image-section{
+    display: flex;
+}
+
+.recipie-image{
+
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 40px;
+    padding: 25px;
+    border-radius: 20px;
+    text-align: justify;
+    
+}
+.recipie-image img{
+    width: 100%;
+    border-radius: 20px;
+}
+.view-section{
+background-image: url();
+}
+
+.tex-marque{
+    color: darkblue;
+    font-size: large;
+    font: bold;
+}
+#food-text{
+    color: red;
+    font: bold;
+
+}
 
